@@ -1,19 +1,49 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Бидний тухай
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+2004 онд Баянгол дүүргийн 13-р хороо 77-р цэцэрлэгийн зүүн корпусд 3 багш  нийт 24 хүүхэдтэй үйл ажиллагаагаа эхэлсэн. 
+Сургуулийн өмнөх боловсролыг хүүхэд багачуудад олгохоос гадна цаг үетэйгээ зэрэгцэн  сургалтандаа шинэчилэл хийн ,бага насны хүүхдүүдэд англи хэл заах сургалтын хөтөлбөр боловсруулан хэрэгжүүлсэн Улаанбаатар хотын хувийн ууган цэцэрлэгүүдийн нэг юм. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Эрхэм зорилго:
+Хүүхдийн дотоод чадвар боломжийг өөрийнх нь тусламжтайгайгаар нээн илрүүлж , харилцаа, хандлагыг нь өөрчилж ,бүтээлч  чадварт сурган,оюунлаг өөртөө итгэлтэй  ирээдүйн зөв Монгол хүүхдийг  бэлтгэх.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Давуу тал :
+Өдөр бүр шинэлэг ,хөгжилтэй,дуу шуугиантай,үйл ажиллагаанууд  зохион байгуулагдана.Уйдаж  залхмааргүй ,нээлттэй,илэн далангүй сонирхолтой ,хөгжөөнт яриа  ярилцлага ,дасгал тоглоом ,зугаалга бол Амила цэцэрлэгийн онцлог
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Үйл ажиллагаа болон дугуйлангуудыг мэргэшсэн ,туршлагатай ,хүүхдэд хайртай ,тэдний бодол санааг ойлгон  найз шиг найзлаж,ээж шиг нь хайрлах чадварлаг багш ,баг хамт олон зааж сургана.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Бага насны хүүхдийн сэтгэл зүйч багш,зөвлөхүүд зөвлөгөө өгнө.
+
+
+### Хүүхдийн хөгжлийн цогц сургалт /хөтөлбөр/
+Хувийн зохион байгуулалт.Эмх цэгц,сахилга батад суралцах 
+Өдрийг  хөгжилттэй ,бүтээлтэй өнгөрүүлэх үйл ажиллагаанууд:
+Хөдөлгөөн эрүүл мэнд
+Математикийн энгийн төсөөлөл
+Хэляриа –харилцаа
+Байгаль нийгэмийн төсөөлөл/туршилт,зугаалга,танин мэдэхүй/
+Урлал –Уран сайхан
+
+2016 он “Алтан намар аялал зугаалга” Бэлтгэл,ахлах бүлгүүд
+
+Өглөө,өдрийн чийрэгжүүлэх дасгал хөдөлгөөн
+Дугуйлангууд:
+Бүжиг/балет,монгол ард,чөлөөт бүжиг/
+Англи хэл
+Шатар/даам/
+
+
+Үлгэрийн цаг:
+Нойрсолтын өмнөх үлгэр/тайвшруулах ,сонгодог ая/
+Үлгэрийн баатартай номын ертөнцөөр аялах/долоо хоногт  1 удаа/
+
+
+### Хоол хүнс
+Бид  “UNICEF” байгууллагаас гаргасан хүүхдийн хүнс тэжээлийн заааварчилгааг мөрдлөг болгож мэргэжлийн тогооч  хүүхдэд багачууддаа өдрийн 6 удаа амт чанартай хоол хүнсээр үйлчилдэг.Тогооч нар маань сэтгэл гарган ажилсанаар өдөр бүр  авах ёстой илчлэгээ хоол хүнсээрээ авч эрүүл өсөж торниж  байна.Энэ бүхэн нь эцэг эхийн санал хүсэлтийн судалгаа,хоолны амталгааны дүгнэлтэн дээрээс  харагдаж байдаг.
+              
+ 	Англи хэлний сургалт:2011 онд Японы MEYSEN академийн сургуулийн өмнөх насны хүүхдэд англи заах цогц сургалтанд нийт 12 багшийг хамруулан MEYSEN англи хэлний сургалтыг анх Монголд оруулж ирж сургалтандаа ашиглах болсон.Уг сургалтын материал нь Багш,хүүхдийн тусгай сургалтын ном гарын авлага dvd,cd тэй.Сургалтын гарын авлага болох хүүхдийн ном нь 1 бүрийн үнэ нь 70$ үнэтэй тул цэцэрлэг 100 % өөрсдийн хөрөнгөөр хүүхэд багачууд,багш нараа хичээлийн хэрэглэлээр нь хангадаг. 
+
+Амила цэцэрлэгийн Удирдлага ,Заах аргын нэгдэл нь жил бүр багш ажилчдынхаа мэргэжлийн түвшинг дээшлүүлэхийн тулд тогтмол сургалт семинарт байнга хамруулан тэднийг хөгжүүлхэд шаардлагатай сургалтын тоног төхөөрөмж,ном гарын авлагаар хангах мөн нийгмийн асуудлыг нь цаг тухай бүр нь шийдвэрлэж ирсэн.
+
