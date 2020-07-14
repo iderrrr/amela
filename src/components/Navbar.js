@@ -3,6 +3,17 @@ import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
 
+export default class MainLayout extends React.Component {
+    render() {
+        return (
+            <div>
+                <Navbar path={this.props.location.pathname} />
+                <main>{this.props.children}</main>
+            </div>
+        );
+    }
+}
+
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
@@ -33,6 +44,15 @@ const Navbar = class extends React.Component {
   }
 
   render() {
+    let submenu = null;
+      if (/^\/about/.test(this.props.path)) {
+          submenu = <div style={style.submenu}>
+              <Link to='/about/submenu-1'>Submenu 1</Link>
+              <Link to='/about/submenu-2'>Submenu 2</Link>
+          </div>
+      }
+
+
     return (
       <nav
         className="navbar is-transparent"
