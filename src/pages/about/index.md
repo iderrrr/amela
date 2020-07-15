@@ -48,7 +48,6 @@ title: Бидний тухай
 Амила цэцэрлэгийн Удирдлага ,Заах аргын нэгдэл нь жил бүр багш ажилчдынхаа мэргэжлийн түвшинг дээшлүүлэхийн тулд тогтмол сургалт семинарт байнга хамруулан тэднийг хөгжүүлхэд шаардлагатай сургалтын тоног төхөөрөмж,ном гарын авлагаар хангах мөн нийгмийн асуудлыг нь цаг тухай бүр нь шийдвэрлэж ирсэн. -->
 
 
-### Бидний тухай
 
 2004 онд Баянгол дүүргийн 13-р хороо 77-р цэцэрлэгийн зүүн корпусд 3 багш нийт 24 хүүхэдтэй үйл ажиллагаагаа эхэлсэн.
 
@@ -99,7 +98,6 @@ title: Бидний тухай
 
   
 ![D:\New Folder (2)\beejin\зураг\DSCF3699.JPG](https://lh3.googleusercontent.com/Y4sE3399-v5vaETkW4690OGoqTfDH5alD0Hj1PKQr42AV9Xx9vJQljV-wUzCx_pj-LxQjaggyos043oKxaZd4okeWh4nRaSWb-0ZjEwNh_xqmGQSYBLJ34f2QbtIVNoOs1mizxet)
-
 ![C:\Users\Dell\Pictures\img003.jpg](https://lh3.googleusercontent.com/g6e7w2_-QBPJ_i4qUs6hbBgyH-8KlJfaJ6-sW4Rhr6knQmJkZVXwgmgyUQze8XCADyKNe5JlK6IuHOgTgrYqN70AXlwkuRFtQ7-zIJSrcjxt3SvDZZVjvHVXkpOs_rm1iHIvAkE4)
 
 *Англи хэлний хичээл 2013 Бэлтгэл бүлэг бүжгийн хичээл 2010он Шатрын Мастер багш Цэлмэгнаран*
