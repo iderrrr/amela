@@ -5,12 +5,11 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Давуу тал
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    -   Өдөр бүр шинэлэг ,хөгжилтэй,дуу шуугиантай,үйл ажиллагаанууд зохион байгуулагдана.Уйдаж залхмааргүй ,нээлттэй,илэн далангүй сонирхолтой ,хөгжөөнт яриа ярилцлага ,дасгал тоглоом ,зугаалга бол Амила цэцэрлэгийн онцлог
+    -   Үйл ажиллагаа болон дугуйлангуудыг мэргэшсэн ,туршлагатай ,хүүхдэд хайртай ,тэдний бодол санааг ойлгон найз шиг найзлаж,ээж шиг нь хайрлах чадварлаг багш ,баг хамт олон зааж сургана.
+    -   Бага насны хүүхдийн сэтгэл зүйч багш,зөвлөхүүд зөвлөгөө өгнө.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
