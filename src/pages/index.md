@@ -2,20 +2,18 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Давуу тал
+heading: 
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: 
+  title: Давуу тал
   description: >
-    
-description: >
     -   Өдөр бүр шинэлэг ,хөгжилтэй,дуу шуугиантай,үйл ажиллагаанууд зохион байгуулагдана. Уйдаж залхмааргүй ,нээлттэй,илэн далангүй сонирхолтой ,хөгжөөнт яриа ярилцлага ,дасгал тоглоом ,зугаалга бол Амила цэцэрлэгийн онцлог
-
 
     -   Үйл ажиллагаа болон дугуйлангуудыг мэргэшсэн, туршлагатай, хүүхдэд хайртай, тэдний бодол санааг ойлгон найз шиг найзлаж, ээж шиг нь хайрлах чадварлаг багш, баг хамт олон зааж сургана.
 
-
     -   Бага насны хүүхдийн сэтгэл зүйч багш, зөвлөхүүд зөвлөгөө өгнө.
+description: >
+    
 intro:
   blurbs:
     - image: /img/coffee.png
