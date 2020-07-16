@@ -3,12 +3,8 @@ templateKey: 'product-page'
 path: /products
 title: Amelo Онцлог
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-<!-- description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Хүүхдийн хөгжлийн цогц сургалт /хөтөлбөр/
+
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -97,43 +93,5 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '??' -->
+      price: '??'
 ---
-
-**Хүүхдийн хөгжлийн цогц сургалт /хөтөлбөр/**
-
-1.  Хувийн зохион байгуулалт.Эмх цэгц,сахилга батад суралцах
-    
-2.  Өдрийг хөгжилттэй ,бүтээлтэй өнгөрүүлэх үйл ажиллагаанууд:
-  -   Хөдөлгөөн эрүүл мэнд
-  -   Математикийн энгийн төсөөлөл
-  -   Хэляриа –харилцаа
-  -   Байгаль нийгэмийн төсөөлөл/туршилт,зугаалга,танин мэдэхүй/
-  -   Урлал –Уран сайхан
-    
-
-![C:\Users\studio\Desktop\altan namar zurag\14438770_971258376333455_1129190471_o.jpg](https://lh6.googleusercontent.com/CRJp7C4GHFQRf5vJp3af0-fqtcCNGE0AQd3-OWvg-RHNcr80Kp9MYOf9KOD6d5DhaE-pp0-B9qK28aCpXTSfPlX1FW-HjfEzsm5wqX8Szr9FpSgLlysurrOU3yO5DhWP_caHwfCw)
-
-*2016 он “Алтан намар аялал зугаалга” Бэлтгэл,ахлах бүлгүүд*
-
-  
-
-3.  Өглөө,өдрийн чийрэгжүүлэх дасгал хөдөлгөөн
-    
-4.  Дугуйлангууд:
-  -   Бүжиг/балет,монгол ард,чөлөөт бүжиг/
-  -   Англи хэл
-  -   Шатар/даам/
-    
-
-  
-![D:\New Folder (2)\beejin\зураг\DSCF3699.JPG](https://lh3.googleusercontent.com/Y4sE3399-v5vaETkW4690OGoqTfDH5alD0Hj1PKQr42AV9Xx9vJQljV-wUzCx_pj-LxQjaggyos043oKxaZd4okeWh4nRaSWb-0ZjEwNh_xqmGQSYBLJ34f2QbtIVNoOs1mizxet)
-![C:\Users\Dell\Pictures\img003.jpg](https://lh3.googleusercontent.com/g6e7w2_-QBPJ_i4qUs6hbBgyH-8KlJfaJ6-sW4Rhr6knQmJkZVXwgmgyUQze8XCADyKNe5JlK6IuHOgTgrYqN70AXlwkuRFtQ7-zIJSrcjxt3SvDZZVjvHVXkpOs_rm1iHIvAkE4)
-
-*Англи хэлний хичээл 2013 Бэлтгэл бүлэг бүжгийн хичээл 2010он Шатрын Мастер багш Цэлмэгнаран*
-
-  
-
-5.  Үлгэрийн цаг:
-  -   Нойрсолтын өмнөх үлгэр/тайвшруулах ,сонгодог ая/
-  -   Үлгэрийн баатартай номын ертөнцөөр аялах/долоо хоногт 1 удаа/

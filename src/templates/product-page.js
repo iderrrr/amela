@@ -41,13 +41,67 @@ export const ProductPageTemplate = ({
     </div>
     <section className="section section--gradient">
       <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
+        <div className="section">
+          <div className="columns">
+            <div className="column is-7 is-offset-1">
+              <h5 className="has-text-weight-semibold is-size-2">{heading}</h5>
+              <p>1.  Хувийн зохион байгуулалт.Эмх цэгц,сахилга батад суралцах</p>
+              <p>2.  Өдрийг хөгжилттэй ,бүтээлтэй өнгөрүүлэх үйл ажиллагаанууд:</p>
+                <p>-   Хөдөлгөөн эрүүл мэнд</p>
+                <p>-   Математикийн энгийн төсөөлөл</p>
+                <p>-   Хэляриа –харилцаа   </p>
+                <p>-   Байгаль нийгэмийн төсөөлөл/туршилт,зугаалга,танин мэдэхүй/</p>
+                <p>-   Урлал –Уран сайхан</p>
+            </div>
+          </div>
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <Features gridItems={intro.blurbs} />
+              <div className="columns">
+                <div className="column is-7">
+                  <h3 className="has-text-weight-semibold is-size-3">
+                    {main.heading}
+                  </h3>
+                  <p>{main.description}</p>
+                </div>
+              </div>
+              <div className="tile is-ancestor">
+                <div className="tile is-vertical">
+                  <div className="tile">
+                    <div className="tile is-parent is-vertical">
+                      <article className="tile is-child">
+                        <PreviewCompatibleImage imageInfo={main.image1} />
+                      </article>
+                    </div>
+                    <div className="tile is-parent">
+                      <article className="tile is-child">
+                        <PreviewCompatibleImage imageInfo={main.image2} />
+                      </article>
+                    </div>
+                  </div>
+                  <div className="tile is-parent">
+                    <article className="tile is-child">
+                      <PreviewCompatibleImage imageInfo={main.image3} />
+                    </article>
+                  </div>
+                </div>
+              </div>
+              <Testimonials testimonials={testimonials} />
+              <div
+                className="full-width-image-container"
+                style={{
+                  backgroundImage: `url(${
+                    fullImage.childImageSharp
+                      ? fullImage.childImageSharp.fluid.src
+                      : fullImage
+                  })`,
+                }}
+              />
+              <h2 className="has-text-weight-semibold is-size-2">
+                {pricing.heading}
               </h2>
-              <PageContent className="content" content={content} />
+              <p className="is-size-5">{pricing.description}</p>
+              <Pricing data={pricing.plans} />
             </div>
           </div>
         </div>
