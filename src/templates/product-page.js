@@ -56,7 +56,7 @@ export const ProductPageTemplate = ({
               <p>&nbsp;&nbsp;4.  Дугуйлангууд: </p>
                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Бүжиг/балет,монгол ард,чөлөөт бүжиг/  </p>
                 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Англи хэл  </p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Шатар/даам/  </p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Шатар/даам/ </p>
             </div>
           </div>
           <div className="columns">
