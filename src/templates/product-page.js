@@ -44,14 +44,21 @@ export const ProductPageTemplate = ({
         <div className="section">
           <div className="columns">
             <div className="column is-7 is-offset-1">
-              <h3 className="has-text-weight-semibold">{heading}</h3>
-              <p>1.  Хувийн зохион байгуулалт.Эмх цэгц,сахилга батад суралцах</p>
-              <p>2.  Өдрийг хөгжилттэй ,бүтээлтэй өнгөрүүлэх үйл ажиллагаанууд:</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Хөдөлгөөн эрүүл мэнд</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Математикийн энгийн төсөөлөл</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Хэляриа –харилцаа   </p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Байгаль нийгэмийн төсөөлөл/туршилт,зугаалга,танин мэдэхүй/</p>
-                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Урлал –Уран сайхан</p>
+              <h3 className="has-text-weight-semibold">{heading}</h3><br>
+              <p>&nbsp;&nbsp;1.  Хувийн зохион байгуулалт.Эмх цэгц,сахилга батад суралцах</p>
+              <p>&nbsp;&nbsp;2.  Өдрийг хөгжилттэй ,бүтээлтэй өнгөрүүлэх үйл ажиллагаанууд:</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Хөдөлгөөн эрүүл мэнд</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Математикийн энгийн төсөөлөл</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Хэляриа –харилцаа   </p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Байгаль нийгэмийн төсөөлөл/туршилт,зугаалга,танин мэдэхүй/</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Урлал –Уран сайхан</p>
+              <p>&nbsp;&nbsp;3.  Өглөө,өдрийн чийрэгжүүлэх дасгал хөдөлгөөн</p>
+              <p>&nbsp;&nbsp;4.  Дугуйлангууд:</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Бүжиг/балет,монгол ард,чөлөөт бүжиг/</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Англи хэл</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-   Шатар/даам/</p>
+
+
             </div>
           </div>
           <div className="columns">
