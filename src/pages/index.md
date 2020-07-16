@@ -13,7 +13,7 @@ mainpitch:
   description: >        
      -   Бага насны хүүхдийн сэтгэл зүйч багш,зөвлөхүүд зөвлөгөө өгнө.
     
-<!-- description: > -->
+description: >
     
 intro:
   blurbs:
